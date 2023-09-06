@@ -1,0 +1,13 @@
+.homebg{
+    height: 80vh;
+    background-position: center 0px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-image: url("./pictures/homepage.jpg");
+}
+
+.homeline{border-top: solid 0.5px gray;}
+
+.T3issue{font-size: 30px;
+    text-align: center;
+}
