@@ -6,8 +6,36 @@
     background-image: url("./pictures/homepage.jpg");
 }
 
-.homeline{border-top: solid 0.5px gray;}
+.homeline{border-top: solid 0.5px #DADADC;}
 
-.T3issue{font-size: 30px;
+.T3issue{font-size: 40px;
     text-align: center;
+    font-family: 'Roboto Mono', monospace;
+
 }
+.deletea > a{text-decoration: none;}
+
+.t3bg {background-color: aliceblue;
+height: 70px;
+border: 0;}
+
+.t3font{font-family: 'Noto Sans TC', sans-serif;
+font-size: 25px;
+text-align: center;
+line-height:65px;
+}
+
+.cardimg {aspect-ratio: 1/1;}
+
+.back{height: 60px;
+background-color: aliceblue;}
+
+.contactus{height:30vh;
+font-family: 'Roboto Mono', monospace;}
+
+.contactusleftsight{
+    font-size: 50px;
+line-height: 4em;}
+
+.endcontact{height: 300px;
+    background-color:#F0EDE8}
